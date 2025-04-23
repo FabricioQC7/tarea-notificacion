@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210770804236",
+    "project_id": "pruebauna-6bca0",
+    "storage_bucket": "pruebauna-6bca0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210770804236:android:82ef779945b6e1edbcb829",
+        "android_client_info": {
+          "package_name": "com.unaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210770804236-7uif5il6v7cmm7s640s830bph4t2v5hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRsn8ycF7VUzBpQkkoxjHKCRgN1wdh5Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210770804236-7uif5il6v7cmm7s640s830bph4t2v5hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
